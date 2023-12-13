@@ -1,4 +1,5 @@
 # Table of Contents scope Hoisting
+
 ## What is a scope in js ?
 The scopeisthecurrentcontextofexecutioninwhichvaluesandexpressions
 are"visible" orcanbereferenced. Ifa variableorexpressionisnotinthecurrent
@@ -15,4 +16,11 @@ sothatchildscopeshaveaccesstoparentscopes, butnotviceversa.
         >    
        •Module scope: The scope for code running in module mode.
 
+![](./scope.png)
+
+![](./scopes.jpg)
+
 ![Alt text](<Снимок экрана 2023-11-16 154109.png>)
+   
+
+   
